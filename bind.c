@@ -79,6 +79,7 @@ PyModuleDef helloworld_mod = {
 
 // https://docs.python.org/3/extending/newtypes_tutorial.html
 // https://www.oracle.com/technical-resources/articles/it-infrastructure/mixing-c-and-cplusplus.html
+// https://stackoverflow.com/questions/2744181/how-to-call-c-function-from-c
 
 PyMODINIT_FUNC PyInit_helloworld(void)
 {
